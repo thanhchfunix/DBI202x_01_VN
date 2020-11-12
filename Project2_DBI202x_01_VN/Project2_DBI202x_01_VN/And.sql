@@ -1,0 +1,1 @@
+select * from Videos where Views > 50000000 and channelId = 2

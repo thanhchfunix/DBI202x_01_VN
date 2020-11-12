@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Project3_DBI202x_VN">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-KLPOHE4:DESKTOP-KLPOHE4\KyThuat88">
+          <Created>2020-07-30T19:55:10.5882105+07:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-KLPOHE4</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>Project2_DBI202x_VN</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="CreateDB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KLPOHE4:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KLPOHE4</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateDB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Cursor.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KLPOHE4:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KLPOHE4</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Cursor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Function.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KLPOHE4:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KLPOHE4</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Function.sql</FullPath>
+        </FileNode>
+        <FileNode Name="InsertDB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KLPOHE4:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KLPOHE4</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>InsertDB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="StoreProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KLPOHE4:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KLPOHE4</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>StoreProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Trigger.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KLPOHE4:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KLPOHE4</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Trigger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="View.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KLPOHE4:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KLPOHE4</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>View.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
